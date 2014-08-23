@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  dewey_normal: 9.99
+  title_long: MyString
+  publisher_text: MyText
+  marc_enc_level: MyString
+  title_latin: MyString
+  edition_info: MyString
+  isbn13: MyString
+  isbn10: MyString
+  language: MyString
+  dewey_decimal: MyString
+  publisher_id: MyString
+  subject_ids: MyString
+  physical_description_text: MyText
+  summary: MyText
+  publisher_name: MyString
+  title: MyString
+  awards_text: MyText
+  urls_text: MyText
+  book_id: MyString
+  lcc_number: MyString
+
+two:
+  dewey_normal: 9.99
+  title_long: MyString
+  publisher_text: MyText
+  marc_enc_level: MyString
+  title_latin: MyString
+  edition_info: MyString
+  isbn13: MyString
+  isbn10: MyString
+  language: MyString
+  dewey_decimal: MyString
+  publisher_id: MyString
+  subject_ids: MyString
+  physical_description_text: MyText
+  summary: MyText
+  publisher_name: MyString
+  title: MyString
+  awards_text: MyText
+  urls_text: MyText
+  book_id: MyString
+  lcc_number: MyString
